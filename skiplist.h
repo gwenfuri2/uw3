@@ -139,4 +139,4 @@ public:
 	Postcondition: Returns true the value is found.*/
 	bool contains(int data) const;
 };
-#pragma once
+##endif

@@ -1,5 +1,3 @@
-
-
 #include "skiplist.h"
 #include <cassert>
 #include <iostream>
